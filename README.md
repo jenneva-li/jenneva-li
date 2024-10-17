@@ -24,7 +24,7 @@
 <div align="center">
   <h2><b>Let's Connect! </b></h2>
 
-  <a href="www.linkedin.com/jenneva-li" target="_blank">
+  <a href="https://www.linkedin.com/in/jenneva-li" target="_blank">
     <img align="center" alt="Jenneva Li | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a>
   &nbsp;&nbsp;
