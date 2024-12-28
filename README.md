@@ -10,7 +10,6 @@
 
 <pre>
 📚 Second-year Mechatronics Engineering student at the University of Waterloo
-💻 Currently working as an AI/ML software engineering intern
 🌟 Main languages: C++, Python, HTML/CSS/SASS
 🚀 Check out my <a href = "https://jenneva-li.github.io/website-portfolio/">portfolio</a>
 📫 How to reach me: jzwli@uwaterloo.ca
