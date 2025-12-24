@@ -2,16 +2,16 @@
 <h1 align="center"><b>Hello , I'm Jenneva </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mechatronics+Engineering+Student;Robotics,+AI,+and+ML+Enthusiast;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mechatronics+Engineering+Student;Robotics,+Embedded,+and+AI/ML+Enthusiast;"></a>
 </p>
 
 
 <br>
 
 <pre>
-📚 Second-year Mechatronics Engineering student at the University of Waterloo
-🌟 Main languages: C++, Python, HTML/CSS/SASS
-🚀 Check out my <a href = "https://jenneva-li.github.io/website-portfolio/">portfolio</a>
+📚 Third-year Mechatronics Engineering student at the University of Waterloo
+🌟 Main languages: C++, C, Python
+🚀 Check out my <a href = "https://www.jennevali.ca/">portfolio</a>
 📫 How to reach me: jzwli@uwaterloo.ca
 </pre>
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
